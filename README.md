@@ -17,6 +17,7 @@ Further instructions for the use and installation of the plugin can be found in 
 
 ## Software Requirements
 OpenJUMP - http://www.openjump.org/
+
 Maximum Inscribed Circle plugin (MICGIS.jar) for OpenJUMP
 
 ## References
