@@ -12,8 +12,6 @@ In order to install “PolyMorph-2D” plugin, file named “PolyMorph.jar” an
 
 C:\Program Files\OpenJUMP-1.14.1-r6147-PLUS\lib\ext
 
-Further instructions for the use and installation of the plugin can be found in "PolyMorph-2D_Help_File&User_Guide.pdf" that can be downloaded from this website.
-
 ## Software Requirements
 OpenJUMP - http://www.openjump.org/
 
