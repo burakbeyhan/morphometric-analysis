@@ -6,15 +6,4 @@ The PolyMorph-2D plug-in is designed as a free and open-source geographic inform
 
 The PolyMorph-2D plug-in provides a practical and effective method to quantify object boundary characteristics, which would allow analysis of the interrelation of morphometric parameters, leading to an improved understanding of the factors responsible for the formation of the shape (i.e., polygon feature). Historically, this task has been an arduous and time-consuming process. The PolyMorph-2D plug-in is also capable of performing morphometric calculations on overlapping polygon features with or without holes, provided they are topologically correct.
 
-
-## Installation and Use
-In order to install “PolyMorph-2D” plugin, file named “PolyMorph.jar” and "MICGIS.jar" should be copied to the extension folder (“ext”) of OpenJUMP installation. In a typical Windows-based operating system, the default address for the respective folder is as following;
-
-C:\Program Files\OpenJUMP-1.14.1-r6147-PLUS\lib\ext
-
-## Software Requirements
-OpenJUMP - http://www.openjump.org/
-
-Maximum Inscribed Circle plugin (MICGIS.jar) for OpenJUMP - https://github.com/burakbeyhan/maximum-inscribed-circle
-
-
+The executable (jar) and source of code of PolyMorph-2D plug-in will be available in this repository.
