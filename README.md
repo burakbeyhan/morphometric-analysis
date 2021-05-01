@@ -6,7 +6,7 @@ The PolyMorph-2D plug-in is designed as a free and open-source geographic inform
 
 Güler, C., Beyhan, B., Tağa, H. (2021) PolyMorph-2D: An open-source GIS plug-in for morphometric analysis of vector-based 2D polygon features. Geomorphology, v. 386, 107755. https://doi.org/10.1016/j.geomorph.2021.107755
 
-The source codes of PolyMorph-2D plug-in will be available in this repository.
+The source codes of PolyMorph-2D plug-in are available in this repository under master branch - https://github.com/burakbeyhan/morphometric-analysis/tree/master.
 
 ## Installation and Use
 
